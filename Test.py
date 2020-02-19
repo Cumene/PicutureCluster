@@ -1,0 +1,1 @@
+print("Picture Cluster Ganbaruzoi")
